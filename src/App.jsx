@@ -13,6 +13,7 @@ const App = () => {
       <Route path="/" element={<Listagem />}/>
     </Routes>
   )
+
 }
 
 export default App;
